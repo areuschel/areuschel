@@ -6,8 +6,10 @@
 Data Science (BS) at Loyola University Chicago
 
 <h2> 📈 Data Science Projects:</h2>
-- [Chicago AQ Trend Analysis Using Pandas](url)
-- [Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada](url)
+
+- Chicago Air Quality Trend Analysis (https://github.com/areuschel/Trend-Analysis-with-Pandas)
+
+- Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    (https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
 
 <h2> 📍 Certifications:</h2>
