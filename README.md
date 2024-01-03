@@ -1,16 +1,23 @@
-### Hi there 👋
+### About Me
 
-<!--
-**areuschel/areuschel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Adri! 
 
-Here are some ideas to get you started:
+  
+Data Science (BS) at Loyola University Chicago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📈 Data Science Projects:</h2>
+- [Chicago AQ Trend Analysis Using Pandas](url)
+- [Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada](url)
+
+
+<h2> 📍 Certifications:</h2>
+- [certification winter break 2024](url)
+
+
+<h2> 💌 Awards:</h2>
+- [Best Data Analytics Instructor-MAPSCORPS](url)
+
+
+<h2> 👥 Connect with me:</h2>
+
+[linkedin]: [https://www.linkedin.com/in/adrian-reuschel-a7678b25b/]
