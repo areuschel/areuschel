@@ -7,9 +7,9 @@ Data Science (BS) at Loyola University Chicago
 
 <h2> 📈 Data Science Projects:</h2>
 
-- Chicago Air Quality Trend Analysis (https://github.com/areuschel/Trend-Analysis-with-Pandas)
-
 - Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    (https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
+
+- Chicago Air Quality Trend Analysis (https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
 
 <h2> 📍 Relevant Courses:</h2>
@@ -32,10 +32,12 @@ Data Science (BS) at Loyola University Chicago
 
 - Best Data Analytics Instructor, MAPSCorps 2023
 
-![MAPSCorps Symposium](https://www.icloud.com/iclouddrive/043C1KOKEmATtmOdFWrSGX2dQ#Reuschel_Adrian_Scholarship "23 Award")
+![MAPSCorps](/Reuschel_Adrian_Scholarship.jpeg?raw=true "Optional Title")
 
 
 
 <h2> 👥 Connect with me:</h2>
 
-[linkedin]: [https://www.linkedin.com/in/adrian-reuschel-a7678b25b/]
+- LinkedIn, www.linkedin.com/in/adrian-reuschel-a7678b25b
+
+  
