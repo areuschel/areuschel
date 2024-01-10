@@ -9,6 +9,8 @@ Data Science (BS) at Loyola University Chicago
 
 - Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    (https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
+- Predicting Large Forest Fires (link)
+
 - Chicago Air Quality Trend Analysis (https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
 
