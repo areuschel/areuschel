@@ -7,11 +7,11 @@ Data Science (BS) at Loyola University Chicago
 
 <h2> 📈 Data Science Projects:</h2>
 
-- Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    (https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
+- Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
-- Predicting Large Forest Fires ([Machine Learning on Forest Fire Data](https://github.com/areuschel/Forest-Fire-ML))
+- Predicting Large Forest Fires [Machine Learning on Forest Fire Data](https://github.com/areuschel/Forest-Fire-ML)
 
-- Chicago Air Quality Trend Analysis (https://github.com/areuschel/Trend-Analysis-with-Pandas)
+- Chicago Air Quality Trend Analysis [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
 
 <h2> 📍 Relevant Courses:</h2>
