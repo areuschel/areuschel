@@ -9,7 +9,7 @@ Data Science (BS) at Loyola University Chicago
 
 - Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
-- Predicting Large Forest Fires [Machine Learning on Forest Fire Data](https://github.com/areuschel/Forest-Fire-ML)
+- Multivariate Analysis on Missouri High School Performance, PCA and MANOVA [Missouri Education Variance Analysis](https://github.com/areuschel/insert-title)
 
 - Chicago Air Quality Trend Analysis [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
@@ -18,9 +18,13 @@ Data Science (BS) at Loyola University Chicago
 
 - Calculus (I,II), 🐶 Truman State University
 
+- Multivariate Statistical Analysis, 🐺 Loyola University Chicago
+
+- Applied Regression Analysis, 🐺 Loyola University Chicago
+
 - Object-Oriented Programming with Mathematics, 🐺 Loyola University Chicago
 
-- Machine Learning, 🐺 Loyola University Chicago
+- Predictive Analytics (ML in R), 🐺 Loyola University Chicago
 
 - Survival Analysis, 🐺 Loyola University Chicago
 
@@ -35,6 +39,9 @@ Data Science (BS) at Loyola University Chicago
 - Best Data Analytics Instructor, MAPSCorps 2023
 
 ![MAPSCorps](/Reuschel_Adrian_Scholarship.jpeg?raw=true "Optional Title")
+
+- Best Data Insight, ASA DataFest 2024
+
 
 
 
