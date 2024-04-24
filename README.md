@@ -42,6 +42,10 @@ Data Science (BS) at Loyola University Chicago
 
 - Best Data Insight, ASA DataFest 2024
 
+![DataFest](ASA_Award24.JPG?raw=true "Optional Title")
+![DataFest](ASA_team24.HEIC?raw=true "Optional Title")
+
+
 
 
 
