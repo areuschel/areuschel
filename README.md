@@ -9,7 +9,7 @@ Data Science (BS) at Loyola University Chicago
 
 - Continuous Time Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
-- Multivariate Analysis on Missouri High School Performance, PCA and MANOVA [MO-education](https://github.com/areuschel/insert-title)
+- Multivariate Analysis on Missouri High School Performance, PCA and MANOVA [MO-Education](https://github.com/areuschel/insert-title)
 
 - Chicago Air Quality Trend Analysis [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
