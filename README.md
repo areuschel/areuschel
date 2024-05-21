@@ -18,17 +18,15 @@ Data Science (BS) at Loyola University Chicago
 
 - Calculus (I,II), 🐶 Truman State University
 
-- Multivariate Statistical Analysis, 🐺 Loyola University Chicago
+- Multivariate Statistical Analysis, 🐺 LUC
 
-- Applied Regression Analysis, 🐺 Loyola University Chicago
+- Applied Regression Analysis, 🐺 LUC
 
-- Object-Oriented Programming with Mathematics, 🐺 Loyola University Chicago
+- Object-Oriented Programming with Mathematics, 🐺 LUC
 
-- Predictive Analytics (ML in R), 🐺 Loyola University Chicago
+- Predictive Analytics (ML in R), 🐺 LUC
 
-- Survival Analysis, 🐺 Loyola University Chicago
-
-- Applied Regression Analysis, 🐺 Loyola University Chicago
+- Survival Analysis, 🐺 LUC
 
 - Intro to SQL, 📚 W3 Schools
 
