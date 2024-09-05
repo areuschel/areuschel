@@ -3,7 +3,7 @@
 <h1>Hi, I'm Adri! 
 
   
-Data Science (BS) at Loyola University Chicago
+Data Science (BS/MS) at Loyola University Chicago
 
 <h2> 📈 Data Science Projects:</h2>
 
