@@ -50,7 +50,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
   - Relevant Courses: Global Environmental Politics (🐺 LUC), Environmental Law and Policy (🐺 LUC), Foundations of Envrionmental Science (I, II (🐺 LUC)), Environmental Justice (🐺 LUC), Environmental Ethics (🐺 LUC), Oceanography (🇪🇸 Saint Louis University- Madrid)
 
-![ENVS](Envirionmental_photos.JPG?raw=true "Optional Title")
+![ENVS](Environmental_photos.jpg?raw=true "Optional Title")
 
     
 ### ⚖️ Social Justice and Public Health
