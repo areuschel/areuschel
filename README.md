@@ -88,7 +88,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### "Best Data Analytics Instructor", MAPSCorps 2023
 
-![MAPSCorps](/Reuschel_Adrian_Scholarship.jpeg?raw=true "Optional Title")
+![MAPSCorps](/MAPSCorps.jpg?raw=true "Optional Title")
 
 ### "Best Data Insight", ASA DataFest 2024
 
