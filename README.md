@@ -4,6 +4,17 @@
   
 Data Science (BS/MS) at Loyola University Chicago 🐺
 
+### Get to know me:
+
+1. 📈 Data Science Projects
+2. 📍 Relevant Courses
+3. 👾 Interests
+4. 💌 Awards
+5. 👥 Connect
+
+![GGB](Heading_GGB.jpg?raw=true "Optional Title")
+
+
 <h2> 📈 Data Science Projects:</h2>
 
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
@@ -40,22 +51,37 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 - Survival Analysis, 🐺 LUC
 - Math Modeling and Simulation, 🐺 LUC
 
-<h2> 👾Interests:</h2>
+<h2> 👾 Interests:</h2>
 
 ### 🌱 Environmental Sustainability
 
-  - Subtopics: GHG Reporting and Accounting, Green Tech, Environmental Justice, Corporate Compliance
+  - Subtopics:
+    - GHG Reporting and Accounting & Corporate Compliance
+    - Green Tech
+    - Environmental Justice
     
-  - Hands-on Experience: 2022 Intern for Lakota Peoples' Law Project, Volunteer for Chicago Parks District Dunes Restoration
+  - Hands-on Experience:
+    - 2022 Intern for Lakota Peoples' Law Project
+    - Volunteer for Chicago Parks District Dunes Restoration
 
-  - Relevant Courses: Global Environmental Politics (🐺 LUC), Environmental Law and Policy (🐺 LUC), Foundations of Envrionmental Science (I, II (🐺 LUC)), Environmental Justice (🐺 LUC), Environmental Ethics (🐺 LUC), Oceanography (🇪🇸 Saint Louis University- Madrid)
+  - Relevant Courses:
+    - Global Environmental Politics, 🐺 LUC
+    - Environmental Law and Policy, 🐺 LUC
+    - Foundations of Envrionmental Science (I, II), 🐺 LUC
+    - Environmental Justice, 🐺 LUC
+    - Environmental Ethics, 🐺 LUC
+    - Oceanography, 🇪🇸 Saint Louis University-Madrid
 
 ![ENVS](Environmental_photos.jpg?raw=true "Optional Title")
 
     
 ### ⚖️ Social Justice and Public Health
   
-  - Subtopics: 2SLGBTQIA+ Access to Medical Care, Environmental Health & Justice, Reproductive Justice, Mental Health Awareness
+  - Subtopics:
+    - 2SLGBTQIA+ Access to Medical Care
+    - Environmental Health & Justice
+    - Reproductive Justice
+    - Mental Health Awareness
 
 
 <h2> 💌 Awards:</h2>
