@@ -21,7 +21,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - Multivariate Analysis of Variance on Missouri High School Test Performance [MO-Education](https://github.com/areuschel/MO-Education)
 
-- Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Name](https://github.com/areuschel/Name)
+- Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Income](https://github.com/areuschel/Income_Expenditure)
 
 - Chicago Air Quality Analysis: Basic Introduction to Pandas [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
