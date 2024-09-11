@@ -49,6 +49,9 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
   - Hands-on Experience: 2022 Intern for Lakota Peoples' Law Project, Volunteer for Chicago Parks District Dunes Restoration
 
   - Relevant Courses: Global Environmental Politics (🐺 LUC), Environmental Law and Policy (🐺 LUC), Foundations of Envrionmental Science (I, II (🐺 LUC)), Environmental Justice (🐺 LUC), Environmental Ethics (🐺 LUC), Oceanography (🇪🇸 Saint Louis University- Madrid)
+
+![ENVS](Envirionmental_photos.JPG?raw=true "Optional Title")
+
     
 ### ⚖️ Social Justice and Public Health
   
