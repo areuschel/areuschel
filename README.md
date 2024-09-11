@@ -1,44 +1,67 @@
 ### About Me
 
-<h1>Hi, I'm Adri! 
-
+<h1>Hi, I'm Adri!<h1>
   
-Data Science (BS/MS) at Loyola University Chicago
+Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 📈 Data Science Projects:</h2>
 
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
-- Multivariate Analysis of Variance on Missouri High School Performance [MO-Education](https://github.com/areuschel/MO-Education)
+- Multivariate Analysis of Variance on Missouri High School Test Performance [MO-Education](https://github.com/areuschel/MO-Education)
 
-- Chicago Air Quality Analysis: Introduction to Pandas [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
+- Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Name](https://github.com/areuschel/Name)
+
+- Chicago Air Quality Analysis: Basic Introduction to Pandas [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
 
 <h2> 📍 Relevant Courses:</h2>
 
+#### Math
 - Calculus (I,II), 🐶 Truman State University
-
-- Multivariate Statistical Analysis, 🐺 LUC
-
-- Applied Regression Analysis, 🐺 LUC
-
+- Linear Algebra, 🐺 LUC
 - Object-Oriented Programming with Mathematics, 🐺 LUC
 
-- Predictive Analytics (ML in R), 🐺 LUC
 
-- Survival Analysis, 🐺 LUC
+#### Computer Science
 
 - Intro to SQL, 📚 W3 Schools
+- Data Structures, 🐺 LUC
+- Database Programming, 🐺 LUC
+- Comupter Forensics, 🐺 LUC
+- Data Mining, 🐺 LUC
 
+
+#### Statistics
+
+- Multivariate Statistical Analysis, 🐺 LUC
+- Applied Regression Analysis, 🐺 LUC
+- Predictive Analytics (ML in R), 🐺 LUC
+- Survival Analysis, 🐺 LUC
+- Math Modeling and Simulation, 🐺 LUC
+
+<h2> 👾Interests:</h2>
+
+### 🌱 Environmental Sustainability
+
+  - Subtopics: GHG Reporting and Accounting, Green Tech, Environmental Justice, Corporate Compliance
+    
+  - Hands-on Experience: 2022 Intern for Lakota Peoples' Law Project, Volunteer for Chicago Parks District Dunes Restoration
+
+  - Relevant Courses: Global Environmental Politics (🐺 LUC), Environmental Law and Policy (🐺 LUC), Foundations of Envrionmental Science (I, II (🐺 LUC)), Environmental Justice (🐺 LUC), Environmental Ethics (🐺 LUC), Oceanography (🇪🇸 Saint Louis University- Madrid)
+    
+### ⚖️ Social Justice and Public Health
+  
+  - Subtopics: 2SLGBTQIA+ Access to Medical Care, Environmental Health & Justice, Reproductive Justice, Mental Health Awareness
 
 
 <h2> 💌 Awards:</h2>
 
-- Best Data Analytics Instructor, MAPSCorps 2023
+### "Best Data Analytics Instructor", MAPSCorps 2023
 
 ![MAPSCorps](/Reuschel_Adrian_Scholarship.jpeg?raw=true "Optional Title")
 
-- Best Data Insight, ASA DataFest 2024
+### "Best Data Insight", ASA DataFest 2024
 
 ![DataFest](ASA_Award24.JPG?raw=true "Optional Title")
 ![DataFest](ASA_Team_24.jpeg?raw=true "Optional Title")
