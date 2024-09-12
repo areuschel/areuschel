@@ -19,9 +19,9 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
-- Multivariate Analysis of Variance on Missouri High School Test Performance [MO-Education](https://github.com/areuschel/MO-Education)
+- Multivariate Analysis of Variance on Missouri High School Test Performance [Missouri Education](https://github.com/areuschel/MO-Education)
 
-- Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Income](https://github.com/areuschel/Income_Expenditure)
+- Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
 
 - Chicago Air Quality Analysis: Basic Introduction to Pandas [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
