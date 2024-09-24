@@ -103,6 +103,6 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 👥 Connect with me:</h2>
 
-- LinkedIn, www.linkedin.com/in/adrian-reuschel-a7678b25b
+- LinkedIn, www.linkedin.com/in/adrian-reuschel
 
   
