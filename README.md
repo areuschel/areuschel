@@ -23,7 +23,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
   
-- Social Media Webscraping: PC vs. Console Gaming [PC vs. Console](https://github.com/leahboger/PCversusConsole)
+- Social Media Webscraping: PC vs. Console Gaming [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
 
 - Chicago Air Quality Analysis: Basic Introduction to Pandas [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
 
