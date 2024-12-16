@@ -17,15 +17,18 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 📈 Data Science Projects:</h2>
 
+- 2048: Simulation Study on Strategy and Number Generation 
+
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
+
+- Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
 
 - Multivariate Analysis of Variance on Missouri High School Test Performance [Missouri Education](https://github.com/areuschel/MO-Education)
 
-- Data Pipeline for Understanding US Household Income and Expenditure - Bureau of Labor Statistics [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
-  
 - Social Media Webscraping: PC vs. Console Gaming [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
 
 - Chicago Air Quality Analysis: Basic Introduction to Pandas [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
+
 
 
 <h2> 📍 Relevant Courses:</h2>
@@ -38,7 +41,6 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 #### Computer Science
 
-- Intro to SQL, 📚 W3 Schools
 - Data Structures, 🐺 LUC
 - Database Programming, 🐺 LUC
 - Comupter Forensics, 🐺 LUC
@@ -56,35 +58,45 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 <h2> 👾 Interests:</h2>
 
 ### 🌱 Environmental Sustainability
-
-  - Subtopics:
-    - GHG Reporting and Accounting & Corporate Compliance
-    - Green Tech
-    - Environmental Justice
     
   - Hands-on Experience:
     - 2022 Intern for Lakota Peoples' Law Project
     - Volunteer for Chicago Parks District Dunes Restoration
 
   - Relevant Courses:
+    - American Politics, 🐺 LUC
     - Global Environmental Politics, 🐺 LUC
     - Environmental Law and Policy, 🐺 LUC
     - Foundations of Envrionmental Science (I, II), 🐺 LUC
     - Environmental Justice, 🐺 LUC
     - Environmental Ethics, 🐺 LUC
-    - Oceanography, 🇪🇸 Saint Louis University-Madrid
+    - Oceanography, 🇪🇸 Saint Louis University - Madrid, Spain
 
 ![ENVS](Environmental_photos.jpg?raw=true "Optional Title")
 
-    
-### ⚖️ Social Justice and Public Health
-  
-  - Subtopics:
-    - 2SLGBTQIA+ Access to Medical Care
-    - Environmental Health & Justice
-    - Reproductive Justice
-    - Mental Health Awareness
+<h2> 🎧 Hobbies:</h2>  
 
+### 🏐 Volleyball
+
+- I currently compete in beach & indoor leagues around Chicago and have been playing for 9 years.
+  - I competed for 417 Juniors and was nominated as an ACVA Under Armour All-America Phenom in 2021.
+
+### 🎶 Music
+
+- I grew up playing music (piano, trumpet, french horn) and you won't see me around without headphones on!
+- My retirement goal is to learn how to play Cello-- it has always been my favorite to listen to. (Why wait? $$$ and time.)
+
+### 📖🇪🇸 Language & Literature
+
+- I lived abroad in Madrid, Spain for 6 months & continue learning Spanish through music, movies, and with Spanish-speaking friends and family.
+
+- 2024 Book List:
+  - Thistlefoot: A Novel, by GennaRose Nethercott
+  - Race After Technology, by Ruha Benjamin
+  - Mindhunter, by John E. Douglas and Mark Olshaker
+  - Weapons of Math Destruction, by Cathy O'Neil
+  - None of the Above: Reflections on Life Beyond the Binary, by Travis Alabanza
+  - Captive Genders: Trans Embodiment and the Prison Industrial Complex, edited by Eric A. Stanley and Nat Smith
 
 <h2> 💌 Awards:</h2>
 
