@@ -74,7 +74,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ![ENVS](Environmental_photos.jpg?raw=true "Optional Title")
 
-<h2> 🎧 Hobbies:</h2>  
+<h2> Hobbies:</h2>  
 
 ### 🏐 Volleyball
 
