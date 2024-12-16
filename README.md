@@ -27,9 +27,6 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - Social Media Webscraping: PC vs. Console Gaming [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
 
-- Chicago Air Quality Analysis: Basic Introduction to Pandas [Pandas in Python](https://github.com/areuschel/Trend-Analysis-with-Pandas)
-
-
 
 <h2> 📍 Relevant Courses:</h2>
 
