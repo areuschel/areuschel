@@ -87,7 +87,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - I lived abroad in Madrid, Spain for 6 months & continue learning Spanish through music, movies, and with Spanish-speaking friends and family.
 
-- 2024 Book List:
+- Some Reads from 2024:
   - Thistlefoot: A Novel, by GennaRose Nethercott
   - Race After Technology, by Ruha Benjamin
   - Mindhunter, by John E. Douglas and Mark Olshaker
