@@ -17,7 +17,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 📈 Data Science Projects:</h2>
 
-- 2048: Simulation Study on Strategy and Number Generation 
+- 2048: Simulation Study on Strategy and Number Generation [2048](https://github.com/areuschel/2048-Sim)
 
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
