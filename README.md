@@ -68,32 +68,13 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
     - Environmental Justice, 🐺 LUC
     - Environmental Ethics, 🐺 LUC
     - Oceanography, 🇪🇸 Saint Louis University - Madrid, Spain
+  
+  - Data Science Projects:
+    - [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
 ![ENVS](Environmental_photos.jpg?raw=true "Optional Title")
 
-<h2> Hobbies:</h2>  
 
-### 🏐 Volleyball
-
-- I currently compete in beach & indoor leagues around Chicago and have been playing for 9 years.
-  - I competed for 417 Juniors and was nominated as an ACVA Under Armour All-America Phenom in 2021.
-
-### 🎶 Music
-
-- I grew up playing music (piano, trumpet, french horn) and you won't see me around without headphones on!
-- My retirement goal is to learn how to play Cello-- it has always been my favorite to listen to. (Why wait? $$$ and time.)
-
-### 📖🇪🇸 Language & Literature
-
-- I lived abroad in Madrid, Spain for 6 months & continue learning Spanish through music, movies, and with Spanish-speaking friends and family.
-
-- Some Reads from 2024:
-  - Thistlefoot: A Novel, by GennaRose Nethercott
-  - Race After Technology, by Ruha Benjamin
-  - Mindhunter, by John E. Douglas and Mark Olshaker
-  - Weapons of Math Destruction, by Cathy O'Neil
-  - None of the Above: Reflections on Life Beyond the Binary, by Travis Alabanza
-  - Captive Genders: Trans Embodiment and the Prison Industrial Complex, edited by Eric A. Stanley and Nat Smith
 
 <h2> 💌 Awards:</h2>
 
@@ -104,10 +85,6 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 ### "Best Data Insight", ASA DataFest 2024
 
 ![DataFest](DataFest_Award24.jpg?raw=true "Optional Title")
-
-
-
-
 
 
 <h2> 👥 Connect with me:</h2>
