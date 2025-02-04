@@ -30,27 +30,32 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 📍 Relevant Courses:</h2>
 
+#### 🐶 Truman State University
+#### 🐺 Loyola University Chicago
+#### 🇪🇸 Saint Louis University - Madrid, Spain
+
+
 #### Math
-- Calculus (I,II), 🐶 Truman State University
-- Linear Algebra, 🐺 LUC
-- Object-Oriented Programming with Mathematics, 🐺 LUC
+- Calculus (I,II), 🐶
+- Linear Algebra, 🐺 
+- Object-Oriented Programming with Mathematics, 🐺
 
 
 #### Computer Science
 
-- Data Structures, 🐺 LUC
-- Database Programming, 🐺 LUC
-- Comupter Forensics, 🐺 LUC
-- Data Mining, 🐺 LUC
+- Data Structures, 🐺 
+- Database Programming, 🐺 
+- Comupter Forensics, 🐺 
+- Data Mining, 🐺 
 
 
 #### Statistics
 
-- Multivariate Statistical Analysis, 🐺 LUC
-- Applied Regression Analysis, 🐺 LUC
-- Predictive Analytics (ML in R), 🐺 LUC
-- Survival Analysis, 🐺 LUC
-- Math Modeling and Simulation, 🐺 LUC
+- Multivariate Statistical Analysis, 🐺 
+- Applied Regression Analysis, 🐺 
+- Predictive Analytics (ML in R), 🐺 
+- Survival Analysis, 🐺 
+- Math Modeling and Simulation, 🐺 
 
 <h2> 👾 Interests:</h2>
 
@@ -61,13 +66,13 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
     - Volunteer for Chicago Parks District Dunes Restoration
 
   - Relevant Courses:
-    - American Politics, 🐺 LUC
-    - Global Environmental Politics, 🐺 LUC
-    - Environmental Law and Policy, 🐺 LUC
-    - Foundations of Envrionmental Science (I, II), 🐺 LUC
-    - Environmental Justice, 🐺 LUC
-    - Environmental Ethics, 🐺 LUC
-    - Oceanography, 🇪🇸 Saint Louis University - Madrid, Spain
+    - American Politics, 🐺 
+    - Global Environmental Politics, 🐺 
+    - Environmental Law and Policy, 🐺 
+    - Foundations of Envrionmental Science (I, II), 🐺 
+    - Environmental Justice, 🐺 
+    - Environmental Ethics, 🐺 
+    - Oceanography, 🇪🇸 
   
   - Data Science Projects:
     - [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
