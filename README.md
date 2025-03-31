@@ -19,6 +19,8 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - 2048: Simulation Study on Strategy and Number Generation [2048](https://github.com/areuschel/2048-Sim)
 
+- Applique: Web Application for Resume Tailoring -- COMING SOON: Spring 2025
+
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
 - Pipeline for Understanding US Household Income and Expenditure  [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
@@ -36,26 +38,29 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 
 #### Math
-- Calculus (I,II), 🐶
-- Linear Algebra, 🐺 
-- Object-Oriented Programming with Mathematics, 🐺
+- Calculus (I,II) 🐶
+- Linear Algebra 🐺 
+- Object-Oriented Programming with Mathematics 🐺
 
 
 #### Computer Science
 
-- Data Structures, 🐺 
-- Database Programming, 🐺 
-- Comupter Forensics, 🐺 
-- Data Mining, 🐺 
+- Data Structures 🐺 
+- Database Programming 🐺  
+- Data Mining 🐺
+- Big Data Analytics 🐺
+- Client-Side Web Development 🐺
+- Comupter Forensics 🐺
 
 
 #### Statistics
 
-- Multivariate Statistical Analysis, 🐺 
-- Applied Regression Analysis, 🐺 
-- Predictive Analytics (ML in R), 🐺 
-- Survival Analysis, 🐺 
-- Math Modeling and Simulation, 🐺 
+- Multivariate Statistical Analysis 🐺 
+- Applied Regression Analysis 🐺 
+- Predictive Analytics (ML in R) 🐺 
+- Survival Analysis 🐺 
+- Math Modeling and Simulation 🐺
+- Categorical Statistics 🐺
 
 <h2> 👾 Interests:</h2>
 
@@ -66,13 +71,13 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
     - Volunteer for Chicago Parks District Dunes Restoration
 
   - Relevant Courses:
-    - American Politics, 🐺 
-    - Global Environmental Politics, 🐺 
-    - Environmental Law and Policy, 🐺 
-    - Foundations of Envrionmental Science (I, II), 🐺 
-    - Environmental Justice, 🐺 
-    - Environmental Ethics, 🐺 
-    - Oceanography, 🇪🇸 
+    - American Politics 🐺 
+    - Global Environmental Politics 🐺 
+    - Environmental Law and Policy 🐺 
+    - Foundations of Envrionmental Science (I, II) 🐺 
+    - Environmental Justice 🐺 
+    - Environmental Ethics 🐺 
+    - Oceanography 🇪🇸 
   
   - Data Science Projects:
     - [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
