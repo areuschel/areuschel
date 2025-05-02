@@ -99,7 +99,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### "Best Data Insight", ASA DataFest 2025
 
-<img src="/datafest25.JPEG" alt="Datafest Award" width="650" height="500">
+<img src="/datafest25.JPEG" alt="Datafest Award" width="710" height="500">
 
 ### "Best Data Insight", ASA DataFest 2024
 
@@ -107,7 +107,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### "Best Data Analytics Instructor", MAPSCorps 2023
 
-<img src="/MAPSCorps.jpg" alt="Mapscorps Award" width="650" height="500">
+<img src="/MAPSCorps.jpg" alt="Mapscorps Award" width="610" height="500">
 
 <a name="connect"></a>
 
