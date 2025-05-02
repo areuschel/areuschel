@@ -6,12 +6,11 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### Get to know me:
 
-1. 📈 Data Science Projects
-2. Link to the sample section: [📈 Data Science Projects](#data-science-proj).
-3. 📍 Relevant Courses
-4. 👾 Interests
-5. 💌 Awards
-6. 👥 Connect
+1. [📈 Data Science Projects](#data-science-proj).
+3. [📍 Relevant Courses](#course-list).
+4. [👾 Interests](#interests).
+5. [💌 Awards](#award-list).
+6. [👥 Connect](#connect).
 
 ![GGB](Heading_GGB.jpg?raw=true "Optional Title")
 
@@ -31,6 +30,8 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - Social Media Webscraping: PC vs. Console Gaming [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
 
+
+<a name="course-list"></a>
 
 <h2> 📍 Relevant Courses:</h2>
 
@@ -64,6 +65,8 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 - Math Modeling and Simulation 🐺
 - Categorical Statistics 🐺
 
+<a name="interests"></a>
+
 <h2> 👾 Interests:</h2>
 
 ### 🌱 Environmental Sustainability
@@ -86,7 +89,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ![ENVS](Environmental_photos.jpg?raw=true "Optional Title")
 
-
+<a name="award-list"></a>
 
 <h2> 💌 Awards:</h2>
 
@@ -106,6 +109,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ![MAPSCorps](/MAPSCorps.jpg?raw=true "Optional Title")
 
+<a name="connect"></a>
 
 <h2> 👥 Connect with me:</h2>
 
