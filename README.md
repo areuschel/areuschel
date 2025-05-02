@@ -6,11 +6,11 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### Get to know me:
 
-1. [📈 Data Science Projects](#data-science-proj)
-3. [📍 Relevant Courses](#course-list)
-4. [👾 Interests](#interests)
-5. [💌 Awards](#award-list)
-6. [👥 Connect](#connect)
+📈 [Data Science Projects](#data-science-proj)
+📍 [Relevant Courses](#course-list)
+👾 [ Interests](#interests)
+💌 [Awards](#award-list)
+👥 [Connect](#connect)
 
 ![GGB](Heading_GGB.jpg?raw=true "Optional Title")
 
