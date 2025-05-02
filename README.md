@@ -88,13 +88,21 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 💌 Awards:</h2>
 
-### "Best Data Analytics Instructor", MAPSCorps 2023
+### "Dr. Robert Reisel Memorial Award", Loyola Department of Mathematics and Statistics 2025
 
-![MAPSCorps](/MAPSCorps.jpg?raw=true "Optional Title")
+![DataFest](math25.jpeg?raw=true "Optional Title")
+
+### "Best Data Insight", ASA DataFest 2025
+
+![DataFest](datafest25.jpeg?raw=true "Optional Title")
 
 ### "Best Data Insight", ASA DataFest 2024
 
 ![DataFest](DataFest_Award24.jpg?raw=true "Optional Title")
+
+### "Best Data Analytics Instructor", MAPSCorps 2023
+
+![MAPSCorps](/MAPSCorps.jpg?raw=true "Optional Title")
 
 
 <h2> 👥 Connect with me:</h2>
