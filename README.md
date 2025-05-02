@@ -20,7 +20,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - 2048: Simulation Study on Strategy and Number Generation [2048](https://github.com/areuschel/2048-Sim)
 
-- Applique: Web Application for Resume Tailoring -- COMING SOON: Spring 2025
+- Applique: Web Application for Resume Tailoring -- COMING SOON
 
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
