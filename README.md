@@ -7,13 +7,15 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 ### Get to know me:
 
 1. 📈 Data Science Projects
-2. 📍 Relevant Courses
-3. 👾 Interests
-4. 💌 Awards
-5. 👥 Connect
+2. Link to the sample section: [📈 Data Science Projects](#data-science-proj).
+3. 📍 Relevant Courses
+4. 👾 Interests
+5. 💌 Awards
+6. 👥 Connect
 
 ![GGB](Heading_GGB.jpg?raw=true "Optional Title")
 
+<a name="data-science-proj"></a>
 
 <h2> 📈 Data Science Projects:</h2>
 
@@ -88,7 +90,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 💌 Awards:</h2>
 
-### "Dr. Robert Reisel Memorial Award", Loyola Department of Mathematics and Statistics 2025
+### "Dr. Robert Reisel Memorial Award", Department of Math and Stats 2025
 
 ![DataFest](math25.JPEG?raw=true "Optional Title")
 
