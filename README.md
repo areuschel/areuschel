@@ -6,11 +6,11 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### Get to know me:
 
-1. [📈 Data Science Projects](#data-science-proj).
-3. [📍 Relevant Courses](#course-list).
-4. [👾 Interests](#interests).
-5. [💌 Awards](#award-list).
-6. [👥 Connect](#connect).
+1. [📈 Data Science Projects](#data-science-proj)
+3. [📍 Relevant Courses](#course-list)
+4. [👾 Interests](#interests)
+5. [💌 Awards](#award-list)
+6. [👥 Connect](#connect)
 
 ![GGB](Heading_GGB.jpg?raw=true "Optional Title")
 
@@ -86,8 +86,8 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
   
   - Data Science Projects:
     - [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
-
-![ENVS](Environmental_photos.jpg?raw=true "Optional Title")
+      
+<img src="/Environmental_photos.jpg" alt="Photos in Nature" width="650" height="500">
 
 <a name="award-list"></a>
 
@@ -95,19 +95,19 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### "Dr. Robert Reisel Memorial Award", Department of Math and Stats 2025
 
-![DataFest](math25.JPEG?raw=true "Optional Title")
+<img src="/math25.JPEG" alt="Math Award" width="650" height="500">
 
 ### "Best Data Insight", ASA DataFest 2025
 
-![DataFest](datafest25.JPEG?raw=true "Optional Title")
+<img src="/datafest25.JPEG" alt="Datafest Award" width="650" height="500">
 
 ### "Best Data Insight", ASA DataFest 2024
 
-![DataFest](DataFest_Award24.jpg?raw=true "Optional Title")
+<img src="/DataFest_Award24.jpg" alt="Datafest Award" width="650" height="500">
 
 ### "Best Data Analytics Instructor", MAPSCorps 2023
 
-![MAPSCorps](/MAPSCorps.jpg?raw=true "Optional Title")
+<img src="/MAPSCorps.jpg" alt="Mapscorps Award" width="650" height="500">
 
 <a name="connect"></a>
 
