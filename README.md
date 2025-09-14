@@ -24,8 +24,6 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - 2048: Simulation Study on Strategy and Number Generation [2048](https://github.com/areuschel/2048-Sim)
 
-- Applique: Web Application for Resume Tailoring -- COMING SOON
-
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
 - Pipeline for Understanding US Household Income and Expenditure  [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
@@ -39,13 +37,10 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 📍 Relevant Courses:</h2>
 
-#### 🐶 Truman State University
-#### 🐺 Loyola University Chicago
-#### 🇪🇸 Saint Louis University - Madrid, Spain
-
+🐺 Loyola University Chicago
 
 #### Math
-- Calculus (I,II) 🐶
+- Calculus I,II 🐶 (TSU)
 - Linear Algebra 🐺 
 - Object-Oriented Programming with Mathematics 🐺
 
@@ -73,7 +68,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 <h2> 👾 Interests:</h2>
 
-### 🌱 Environmental Sustainability
+### Environmental Policy & Justice
     
   - Hands-on Experience:
     - 2022 Intern for Lakota Peoples' Law Project
@@ -86,32 +81,26 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
     - Foundations of Envrionmental Science (I, II) 🐺 
     - Environmental Justice 🐺 
     - Environmental Ethics 🐺 
-    - Oceanography 🇪🇸 
+    - Oceanography 🇪🇸 (Saint Louis University - Madrid, Spain)
   
-  - Data Science Projects:
+  - DS Projects:
     - [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
-      
-<img src="/Environmental_photos.jpg" alt="Photos in Nature" width="650" height="500">
 
+      
 <a name="award-list"></a>
 
-<h2> 💌 Awards:</h2>
+<h2>Awards:</h2>
 
-### "Dr. Robert Reisel Memorial Award", Department of Math and Stats 2025
+#### 2025
+"Best Data Insight", ASA DataFest 2025 LUC
 
-<img src="/math25.JPEG" alt="Math Award" width="325" height="250">
+"Dr. Robert Reisel Memorial Award", LUC Department of Math and Stats 2025
 
-### "Best Data Insight", ASA DataFest 2025
+#### 2024
+"Best Data Insight", ASA DataFest 2024 LUC
 
-<img src="/datafest25.JPEG" alt="Datafest Award" width="710" height="500">
-
-### "Best Data Insight", ASA DataFest 2024
-
-<img src="/DataFest_Award24.jpg" alt="Datafest Award" width="650" height="500">
-
-### "Best Data Analytics Instructor", MAPSCorps 2023
-
-<img src="/MAPSCorps.jpg" alt="Mapscorps Award" width="610" height="500">
+#### 2023
+"Best Data Analytics Instructor", MAPSCorps
 
 <a name="connect"></a>
 
