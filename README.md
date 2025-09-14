@@ -99,7 +99,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 ### "Dr. Robert Reisel Memorial Award", Department of Math and Stats 2025
 
-<img src="/math25.JPEG" alt="Math Award" width="650" height="500">
+<img src="/math25.JPEG" alt="Math Award" width="325" height="250">
 
 ### "Best Data Insight", ASA DataFest 2025
 
