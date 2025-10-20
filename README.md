@@ -43,6 +43,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 - Calculus I,II 🐶 (TSU)
 - Linear Algebra 🐺 
 - Object-Oriented Programming with Mathematics 🐺
+- Financial Mathematics and Derivatives 🐺
 
 
 #### Computer Science
@@ -61,8 +62,9 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 - Applied Regression Analysis 🐺 
 - Predictive Analytics (ML in R) 🐺 
 - Survival Analysis 🐺 
-- Math Modeling and Simulation 🐺
+- Mathematical Computation and Simulation 🐺
 - Categorical Statistics 🐺
+- Nonparametric Statistics 🐺
 
 <a name="interests"></a>
 
