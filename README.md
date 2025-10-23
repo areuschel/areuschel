@@ -26,7 +26,7 @@ Data Science (BS/MS) at Loyola University Chicago 🐺
 
 - Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
-- R Package Development:  
+- R Package Development:  [GrrgOG](https://github.com/areuschel/SQ)
 
 - Pipeline for Understanding US Household Income and Expenditure  [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
 
