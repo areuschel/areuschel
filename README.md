@@ -1,8 +1,8 @@
 ### About Me
 
-<h1>Hi, I'm Adri!<h1>
+# Hi, I'm Adri!
   
-Data Science MS @ Loyola University Chicago 🐺
+## Data Science MS Student @ Loyola University Chicago 🐺
 
 ### Get to know me:
 
