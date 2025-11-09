@@ -97,15 +97,12 @@
 
 <h2>Awards:</h2>
 
-**2025**  
-- Best Data Insight, ASA DataFest LUC  
-- Dr. Robert Reisel Memorial Award, LUC Department of Math & Stats  
-
-**2024**  
-- Best Data Insight, ASA DataFest LUC  
-
-**2023**  
-- Best Data Analytics Instructor, MAPSCorps  
+| Year | Award                                         | Organization / Context                |
+|------|-----------------------------------------------|--------------------------------------|
+| 2025 | Best Data Insight                             | ASA DataFest, Loyola University Chicago |
+| 2025 | Dr. Robert Reisel Memorial Award              | LUC Department of Math & Statistics |
+| 2024 | Best Data Insight                             | ASA DataFest, Loyola University Chicago |
+| 2023 | Best Data Analytics Instructor                | MAPSCorps                            |
 
 <a name="connect"></a>
 
