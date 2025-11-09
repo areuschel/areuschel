@@ -22,14 +22,14 @@
 
 <h2> 📈 Data Science Projects:</h2>
 
-| Project | Description | Skills / Tools | Link |
-|---------|-------------|----------------|------|
-| 2048 Simulation Study | Strategy & number generation | R, Simulation | [GitHub](https://github.com/areuschel/2048-Sim) |
-| Bark vs. Bite | Cox PH modeling on beetle infestations | R, Survival Analysis | [GitHub](https://github.com/areuschel/Survival-Analysis-Pine-Beetles) |
-| GrrgOG | Custom R package development | R, audio tools | [GitHub](https://github.com/areuschel/SQ) |
-| Income & Expenditures | Household income and expenditure pipeline | R, Multivariate Stats| [GitHub](https://github.com/areuschel/Income-Expenditure) |
-| Missouri Education | Multivariate analysis on HS test performance | R, PCA | [GitHub](https://github.com/areuschel/MO-Education) |
-| PC vs. Console | Social media scraping and topic modeling | Python, NLP | [GitHub](https://github.com/leahboger/Gaming_Webscraping_TopicModel) |
+| Project | Description | Link |
+|---------|-------------|------|
+| 2048 Simulation Study | Strategy & number generation  | [2048-Sim](https://github.com/areuschel/2048-Sim) |
+| Bark vs. Bite | Cox PH modeling on beetle infestations  | [CoxPH](https://github.com/areuschel/Survival-Analysis-Pine-Beetles) |
+| GrrgOG | Custom R package development | [GrrgOG](https://github.com/areuschel/SQ) |
+| Income & Expenditures | Household income and expenditure pipeline | [BLS-Survey](https://github.com/areuschel/Income-Expenditure) |
+| Missouri Education | Multivariate analysis on HS test performance  | [MO-Edu](https://github.com/areuschel/MO-Education) |
+| PC vs. Console | Social media scraping and topic modeling  | [Webscraping](https://github.com/leahboger/Gaming_Webscraping_TopicModel) |
 
 <a name="course-list"></a>
 
