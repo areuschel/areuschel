@@ -22,51 +22,54 @@
 
 <h2> 📈 Data Science Projects:</h2>
 
-- 2048: Simulation Study on Strategy and Number Generation [2048](https://github.com/areuschel/2048-Sim)
+- **2048 Simulation Study** – Analysis of strategy and number generation  
+  [2048](https://github.com/areuschel/2048-Sim)
 
-- Cox Proportional Hazards Modeling on Mountain Pine Beetle Infestations in Canada    [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
+- **Cox Proportional Hazards Modeling** – Mountain pine beetle infestations in Canada  
+  [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
 
-- R Package Development:  [GrrgOG](https://github.com/areuschel/SQ)
+- **R Package Development** – [GrrgOG](https://github.com/areuschel/SQ)
 
-- Pipeline for Understanding US Household Income and Expenditure  [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
+- **US Household Income & Expenditure Pipeline**  
+  [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
 
-- Multivariate Analysis on Missouri High School Test Performance [Missouri Education](https://github.com/areuschel/MO-Education)
+- **Multivariate Analysis** – Missouri high school test performance  
+  [Missouri Education](https://github.com/areuschel/MO-Education)
 
-- Social Media Webscraping: PC vs. Console Gaming [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
+- **Social Media Web Scraping** – PC vs. console gaming topic modeling  
+  [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
 
 
 <a name="course-list"></a>
 
 <h2> 📍 Relevant Courses:</h2>
 
-🐺 Loyola University Chicago
-
 #### Math
-- Calculus I,II 🐶 (TSU)
-- Linear Algebra 🐺 
-- Object-Oriented Programming with Mathematics 🐺
-- Financial Mathematics and Derivatives 🐺
+- Calculus I,II
+- Linear Algebra  
+- Object-Oriented Programming with Mathematics 
+- Financial Mathematics and Derivatives 
 
 
 #### Computer Science
 
-- Data Structures 🐺 
-- Database Programming 🐺  
-- Data Mining 🐺
-- Big Data Analytics 🐺
-- Client-Side Web Development 🐺
-- Comupter Forensics 🐺
+- Data Structures 
+- Database Programming   
+- Data Mining 
+- Big Data Analytics 
+- Client-Side Web Development 
+- Comupter Forensics 
 
 
 #### Statistics
 
-- Multivariate Statistical Analysis 🐺 
-- Applied Regression Analysis 🐺 
-- Predictive Analytics (ML in R) 🐺 
-- Survival Analysis 🐺 
-- Mathematical Computation and Simulation 🐺
-- Categorical Statistics 🐺
-- Nonparametric Statistics 🐺
+- Multivariate Statistical Analysis  
+- Applied Regression Analysis 
+- Predictive Analytics (ML in R)  
+- Survival Analysis  
+- Mathematical Computation and Simulation 
+- Categorical Statistics 
+- Nonparametric Statistics 
 
 <a name="interests"></a>
 
@@ -79,12 +82,12 @@
     - Volunteer for Chicago Parks District Dunes Restoration
 
   - Relevant Courses:
-    - American Politics 🐺 
-    - Global Environmental Politics 🐺 
-    - Environmental Law and Policy 🐺 
-    - Foundations of Envrionmental Science (I, II) 🐺 
-    - Environmental Justice 🐺 
-    - Environmental Ethics 🐺 
+    - American Politics  
+    - Global Environmental Politics  
+    - Environmental Law and Policy  
+    - Foundations of Envrionmental Science (I, II)  
+    - Environmental Justice 
+    - Environmental Ethics  
     - Oceanography 🇪🇸 (Saint Louis University - Madrid, Spain)
   
   - DS Projects:
