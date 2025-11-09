@@ -36,33 +36,13 @@
 
 <h2> 📍 Relevant Courses:</h2>
 
-#### Math
-- Calculus I,II
-- Linear Algebra  
-- Object-Oriented Programming with Mathematics 
-- Financial Mathematics and Derivatives 
+| Category       | Courses |
+|----------------|---------|
+| Mathematics    | Calculus I, Calculus II, Linear Algebra, Object-Oriented Programming with Math, Financial Mathematics & Derivatives |
+| Computer Science | Data Structures, Database Programming, Data Mining, Big Data Analytics, Client-Side Web Development, Computer Forensics |
+| Statistics     | Multivariate Statistical Analysis, Applied Regression Analysis, Predictive Analytics (ML in R), Survival Analysis, Mathematical Computation & Simulation, Categorical Statistics, Nonparametric Statistics |
 
-
-#### Computer Science
-
-- Data Structures 
-- Database Programming   
-- Data Mining 
-- Big Data Analytics 
-- Client-Side Web Development 
-- Comupter Forensics 
-
-
-#### Statistics
-
-- Multivariate Statistical Analysis  
-- Applied Regression Analysis 
-- Predictive Analytics (ML in R)  
-- Survival Analysis  
-- Mathematical Computation and Simulation
 <a name="interests"></a>
-- Categorical Statistics 
-- Nonparametric Statistics 
 
 <h2> 👾 Interests:</h2>
 
