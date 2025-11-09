@@ -67,11 +67,10 @@
 - Applied Regression Analysis 
 - Predictive Analytics (ML in R)  
 - Survival Analysis  
-- Mathematical Computation and Simulation 
+- Mathematical Computation and Simulation
+<a name="interests"></a>
 - Categorical Statistics 
 - Nonparametric Statistics 
-
-<a name="interests"></a>
 
 <h2> 👾 Interests:</h2>
 
