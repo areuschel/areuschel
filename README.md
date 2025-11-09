@@ -36,11 +36,11 @@
 - **Multivariate Analysis** – Missouri high school test performance  
   [Missouri Education](https://github.com/areuschel/MO-Education)
 
+<a name="course-list"></a>
+
 - **Social Media Web Scraping** – PC vs. console gaming topic modeling  
   [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
 
-
-<a name="course-list"></a>
 
 <h2> 📍 Relevant Courses:</h2>
 
