@@ -12,6 +12,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+Welcome to my github!
+
+Use this page to explore my projects, experience, and interests in all things Data Science. I'm currently developing an application to help my mom pick her clothes for early morning runs -- trained on her own historical preferences! Stay tuned.
+
 ### Get to know me:
 
 📈 [Data Science Projects](#data-science-proj)
@@ -55,23 +59,31 @@
 
 <h2> 👾 Interests:</h2>
 
-### Environmental Policy & Justice
-    
-  - Hands-on Experience:
-    - 2022 Intern for Lakota Peoples' Law Project
-    - Volunteer for Chicago Parks District Dunes Restoration
+### 🌱 Environmental Science, Policy, & Justice
 
-  - Relevant Courses:
-    - American Politics  
-    - Global Environmental Politics  
-    - Environmental Law and Policy  
-    - Foundations of Envrionmental Science (I, II)  
-    - Environmental Justice 
-    - Environmental Ethics  
-    - Oceanography 🇪🇸 (Saint Louis University - Madrid, Spain)
-  
-  - DS Projects:
-    - [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
+**Hands-on Experience:**  
+- **2022 Intern:** Lakota Peoples' Law Project  
+- **Volunteer:** Chicago Parks District Dunes Restoration  
+
+**Relevant Courses:**  
+- **Politics:** American Politics, Global Environmental Politics, Environmental Law and Policy  
+- **Science:** Foundations of Environmental Science (I & II), Oceanography 🇪🇸 (Saint Louis University – Madrid, Spain)  
+- **Ethics:** Environmental Justice, Environmental Ethics  
+
+**Data Science Projects:**  
+- [**Bark vs. Bite**](https://github.com/areuschel/Survival-Analysis-Pine-Beetles) – Cox PH modeling on mountain pine beetle infestations  
+
+---
+
+### 🏥 Public Health
+
+**Hands-on Experience:**  
+- **2025 Commercial Analytics DS Intern** – Aon  
+- **2024 ETL Data Intern** – Metopio  
+- **2024 Health & Benefits Data Analyst Intern** – Aon  
+- **2023 Data Analytics Instructor** – MAPSCorps  
+  - Conducted research on financial literacy as a public health issue in Garfield Park, Chicago  
+  - [**Summary of Research**](https://storymaps.arcgis.com/stories/fbacaf589ef54f528712803e82c17995)  
 
       
 <a name="award-list"></a>
