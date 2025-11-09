@@ -24,12 +24,12 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 2048 Simulation Study | Strategy & number generation  | [2048-Sim](https://github.com/areuschel/2048-Sim) |
-| Bark vs. Bite | Cox PH modeling on beetle infestations  | [CoxPH](https://github.com/areuschel/Survival-Analysis-Pine-Beetles) |
-| GrrgOG | Custom R package development | [GrrgOG](https://github.com/areuschel/SQ) |
-| Income & Expenditures | Household income and expenditure pipeline | [BLS-Survey](https://github.com/areuschel/Income-Expenditure) |
-| Missouri Education | Multivariate analysis on HS test performance  | [MO-Edu](https://github.com/areuschel/MO-Education) |
-| PC vs. Console | Social media scraping and topic modeling  | [Webscraping](https://github.com/leahboger/Gaming_Webscraping_TopicModel) |
+| 2048 Simulation Study | I code the popular game 2048 and simuluate over 90,000 games to study number generation rules in gameplay and impacts on different strategies | [2048-Sim](https://github.com/areuschel/2048-Sim) |
+| Bark vs. Bite | Continuous-time Cox PH modeling on beetle infestations in Canada to evaluate environmental treatment techniques | [CoxPH](https://github.com/areuschel/Survival-Analysis-Pine-Beetles) |
+| GrrgOG | Custom R package development project using audio files| [GrrgOG](https://github.com/areuschel/SQ) |
+| Income & Expenditures | Pipeline for understanding the Bureau of Labor Statistics Survey on household income and expenditure in the US | [BLS-Survey](https://github.com/areuschel/Income-Expenditure) |
+| Missouri Education | Multivariate analysis on high school test performance in Missouri schools  | [MO-Edu](https://github.com/areuschel/MO-Education) |
+| PC vs. Console | Social media web scraping and topic modeling on the debate of PC vs Console gaming | [Webscraping](https://github.com/leahboger/Gaming_Webscraping_TopicModel) |
 
 <a name="course-list"></a>
 
