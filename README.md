@@ -6,6 +6,7 @@
 
 ![GGB](Heading_GGB.jpg?raw=true "Optional Title")
 
+
 ### Get to know me:
 
 📈 [Data Science Projects](#data-science-proj)
@@ -98,16 +99,15 @@
 
 <h2>Awards:</h2>
 
-#### 2025
-"Best Data Insight", ASA DataFest 2025 LUC
+**2025**  
+- Best Data Insight, ASA DataFest LUC  
+- Dr. Robert Reisel Memorial Award, LUC Department of Math & Stats  
 
-"Dr. Robert Reisel Memorial Award", LUC Department of Math and Stats 2025
+**2024**  
+- Best Data Insight, ASA DataFest LUC  
 
-#### 2024
-"Best Data Insight", ASA DataFest 2024 LUC
-
-#### 2023
-"Best Data Analytics Instructor", MAPSCorps
+**2023**  
+- Best Data Analytics Instructor, MAPSCorps  
 
 <a name="connect"></a>
 
