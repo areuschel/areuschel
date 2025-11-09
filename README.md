@@ -22,24 +22,16 @@
 
 <h2> 📈 Data Science Projects:</h2>
 
-- **2048 Simulation Study** – Analysis of strategy and number generation  
-  [2048](https://github.com/areuschel/2048-Sim)
-
-- **Cox Proportional Hazards Modeling** – Mountain pine beetle infestations in Canada  
-  [Bark vs. Bite](https://github.com/areuschel/Survival-Analysis-Pine-Beetles)
-
-- **R Package Development** – [GrrgOG](https://github.com/areuschel/SQ)
-
-- **US Household Income & Expenditure Pipeline**  
-  [Income and Expenditures](https://github.com/areuschel/Income-Expenditure)
-
-- **Multivariate Analysis** – Missouri high school test performance  
-  [Missouri Education](https://github.com/areuschel/MO-Education)
+| Project | Description | Skills / Tools | Link |
+|---------|-------------|----------------|------|
+| 2048 Simulation Study | Strategy & number generation | R, Simulation | [GitHub](https://github.com/areuschel/2048-Sim) |
+| Bark vs. Bite | Cox PH modeling on beetle infestations | R, Survival Analysis | [GitHub](https://github.com/areuschel/Survival-Analysis-Pine-Beetles) |
+| GrrgOG | Custom R package development | R, audio tools | [GitHub](https://github.com/areuschel/SQ) |
+| Income & Expenditures | Household income and expenditure pipeline | R, Multivariate Stats| [GitHub](https://github.com/areuschel/Income-Expenditure) |
+| Missouri Education | Multivariate analysis on HS test performance | R, PCA | [GitHub](https://github.com/areuschel/MO-Education) |
+| PC vs. Console | Social media scraping and topic modeling | Python, NLP | [GitHub](https://github.com/leahboger/Gaming_Webscraping_TopicModel) |
 
 <a name="course-list"></a>
-
-- **Social Media Web Scraping** – PC vs. console gaming topic modeling  
-  [PC vs. Console](https://github.com/leahboger/Gaming_Webscraping_TopicModel)
 
 
 <h2> 📍 Relevant Courses:</h2>
