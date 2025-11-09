@@ -4,9 +4,6 @@
   
 ## Data Science MS Student @ Loyola University Chicago 🐺
 
-![GGB](Heading_GGB.jpg?raw=true "Optional Title")
-
-
 ### Get to know me:
 
 📈 [Data Science Projects](#data-science-proj)
@@ -20,6 +17,8 @@
 👥 [Connect](#connect)
 
 <a name="data-science-proj"></a>
+
+![GGB](Heading_GGB.jpg?raw=true "Optional Title")
 
 <h2> 📈 Data Science Projects:</h2>
 
