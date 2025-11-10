@@ -46,10 +46,12 @@ Welcome to my github!
 
 <h2> 👾 Interests:</h2>
 
-### Application Development
+### 🌐 Application Development
 
 **Data Science Projects:**
-- Consulting: Recommender system to suggest running layers at specific locations and times (In progress!)
+- Recommender system to suggest running layers at specific locations and times (In progress!)
+
+---
 
 ### 🌱 Environmental Science, Policy, & Justice
 
