@@ -39,11 +39,17 @@ Welcome to my github!
 | Income & Expenditures | Pipeline for understanding the Bureau of Labor Statistics Survey on household income and expenditure in the US | [BLS-Survey](https://github.com/areuschel/Income-Expenditure) |
 | Missouri Education | Multivariate analysis on high school test performance in Missouri schools  | [MO-Edu](https://github.com/areuschel/MO-Education) |
 | PC vs. Console | Social media web scraping and topic modeling on the debate of PC vs Console gaming | [Webscraping](https://github.com/leahboger/Gaming_Webscraping_TopicModel) |
+
 <a name="interests"></a>
 
 ---
 
 <h2> 👾 Interests:</h2>
+
+### Application Development
+
+**Data Science Projects:**
+- Consulting: Recommender system to suggest running layers at specific locations and times (In progress!)
 
 ### 🌱 Environmental Science, Policy, & Justice
 
