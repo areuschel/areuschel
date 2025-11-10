@@ -18,8 +18,6 @@ Welcome to my github!
 
 📈 [Data Science Projects](#data-science-proj)
 
-📍 [Relevant Courses](#course-list)
-
 👾 [ Interests](#interests)
 
 💌 [Awards](#award-list)
@@ -42,16 +40,7 @@ Welcome to my github!
 | Missouri Education | Multivariate analysis on high school test performance in Missouri schools  | [MO-Edu](https://github.com/areuschel/MO-Education) |
 | PC vs. Console | Social media web scraping and topic modeling on the debate of PC vs Console gaming | [Webscraping](https://github.com/leahboger/Gaming_Webscraping_TopicModel) |
 
-<a name="course-list"></a>
-
-
-<h2> 📍 Relevant Courses:</h2>
-
-| Category       | Courses |
-|----------------|---------|
-| Mathematics    | Calculus (I,II), Linear Algebra, Financial Mathematics & Derivatives |
-| Computer Science | Data Structures, Object-Oriented Programming, Database Programming, Data Mining, Big Data Analytics, Client-Side Web Development |
-| Statistics     | Multivariate Analysis, Applied Regression Analysis, Predictive Analytics , Survival, Simulation, Categorical, Nonparametric |
+---
 
 <a name="interests"></a>
 
