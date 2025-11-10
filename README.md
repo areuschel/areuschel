@@ -51,7 +51,7 @@ Welcome to my github!
 |----------------|---------|
 | Mathematics    | Calculus (I,II), Linear Algebra, Financial Mathematics & Derivatives |
 | Computer Science | Data Structures, Object-Oriented Programming, Database Programming, Data Mining, Big Data Analytics, Client-Side Web Development |
-| Statistics     | Multivariate Statistical Analysis, Applied Regression Analysis, Predictive Analytics (ML in R), Survival Analysis, Simulation, Categorical, Nonparametric |
+| Statistics     | Multivariate Analysis, Applied Regression Analysis, Predictive Analytics , Survival, Simulation, Categorical, Nonparametric |
 
 <a name="interests"></a>
 
