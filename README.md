@@ -49,9 +49,9 @@ Welcome to my github!
 
 | Category       | Courses |
 |----------------|---------|
-| Mathematics    | Calculus I, Calculus II, Linear Algebra, Object-Oriented Programming with Math, Financial Mathematics & Derivatives |
-| Computer Science | Data Structures, Database Programming, Data Mining, Big Data Analytics, Client-Side Web Development, Computer Forensics |
-| Statistics     | Multivariate Statistical Analysis, Applied Regression Analysis, Predictive Analytics (ML in R), Survival Analysis, Mathematical Computation & Simulation, Categorical Statistics, Nonparametric Statistics |
+| Mathematics    | Calculus (I,II), Linear Algebra, Financial Mathematics & Derivatives |
+| Computer Science | Data Structures, Object-Oriented Programming, Database Programming, Data Mining, Big Data Analytics, Client-Side Web Development |
+| Statistics     | Multivariate Statistical Analysis, Applied Regression Analysis, Predictive Analytics (ML in R), Survival Analysis, Simulation, Categorical, Nonparametric |
 
 <a name="interests"></a>
 
