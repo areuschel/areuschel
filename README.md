@@ -74,14 +74,13 @@ Welcome to my github!
 **Hands-on Experience:**  
 - **2025 Commercial Analytics DS Intern** – Aon  
 - **2024 ETL Data Intern** – Metopio  
-- **2024 Health & Benefits Data Analyst Intern** – Aon  
+- **2024 Health & Benefits Data Analyst Intern** – Aon
+<a name="award-list"></a>
 - **2023 Data Analytics Instructor** – MAPSCorps  
   - Conducted research on financial literacy as a public health issue in Garfield Park, Chicago  
   - [**Summary of Research**](https://storymaps.arcgis.com/stories/fbacaf589ef54f528712803e82c17995)  
 
       
-<a name="award-list"></a>
-
 <h2>Awards:</h2>
 
 | Year | Award                                         | Organization / Context                |
