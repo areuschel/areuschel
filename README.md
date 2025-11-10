@@ -14,8 +14,6 @@
 
 Welcome to my github!
 
-Use this page to explore my projects, experience, and interests in all things Data Science. I'm currently developing an application to help my mom pick her clothes for early morning runs -- trained on her own historical preferences! Stay tuned.
-
 ### Get to know me:
 
 📈 [Data Science Projects](#data-science-proj)
